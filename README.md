@@ -1,0 +1,1 @@
+Gym App is a simple web application designed to help users explore deifferent types of gym workouts,training categories,and fitness tips.it's builtusing HTML<CSS and JavaScript focusing on a clean design and smooth user experience.
